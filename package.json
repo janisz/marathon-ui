@@ -56,7 +56,7 @@
     "sinon": "^1.12.2",
     "source-map-loader": "^0.1.5",
     "transform-loader": "^0.2.2",
-    "webpack": "^1.9.11"
+    "webpack": "^5.94.0"
   },
   "scripts": {
     "build": "gulp",
